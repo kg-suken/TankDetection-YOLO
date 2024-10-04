@@ -1,0 +1,10 @@
+# 戦車を検出するYOLO
+YOLOv8xを元に学習を行いました
+データセット:https://universe.roboflow.com/project-0woqr/tank-finder-xuueg
+
+
+ソース画像
+![input](https://github.com/user-attachments/assets/3d638c17-84b9-4a62-8d0d-ec743846a31e)
+
+出力画像
+![Uploading output.png…]()

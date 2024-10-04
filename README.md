@@ -7,4 +7,4 @@ YOLOv8xを元に学習を行いました
 ![input](https://github.com/user-attachments/assets/3d638c17-84b9-4a62-8d0d-ec743846a31e)
 
 出力画像
-![Uploading output.png…]()
+![output](https://github.com/user-attachments/assets/3e647d8a-9abe-4313-b88e-00816be4c2de)

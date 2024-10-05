@@ -10,3 +10,6 @@ YOLOv8xを元に学習を行いました
 
 出力画像
 ![output](https://github.com/user-attachments/assets/3e647d8a-9abe-4313-b88e-00816be4c2de)
+
+
+制作:sskrc

@@ -1,5 +1,6 @@
 # 戦車を検出するYOLO
 YOLOv8xを元に学習を行いました
+
 データセット:https://universe.roboflow.com/project-0woqr/tank-finder-xuueg
 
 モデル:https://sites.suken.daemon.asia/YouTube/TankDetection-YOLO/best.pt

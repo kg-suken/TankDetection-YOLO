@@ -12,4 +12,9 @@ YOLOv8xを元に学習を行いました
 ![output](https://github.com/user-attachments/assets/3e647d8a-9abe-4313-b88e-00816be4c2de)
 
 
-制作:sskrc
+## 制作
+**sskrc**
+
+---
+
+今後の改良に関する提案やバグ報告は、お気軽にIssueを通してご連絡ください。

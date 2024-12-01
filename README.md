@@ -25,6 +25,7 @@ Pytorchは公式サイトからお使いのGPUにあったものをインスト�
 pip install torch torchvision torchaudio
 ```
 ### 実行
+モデルとpyファイルは同じディレクトリに配置し、そのディレクトリの中で実行してください。
 ```
 python cam.py
 ```

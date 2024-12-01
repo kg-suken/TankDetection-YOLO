@@ -33,7 +33,8 @@ python cam.py
 
 ---
 ## サンプル
-リアルタイムで動画から戦車を検出しています。  
+リアルタイムで動画から戦車を検出しています。
+
 [ソース動画](https://www.youtube.com/watch?v=Kat897_pud4)
 
 https://github.com/user-attachments/assets/6844ace2-995b-40b7-bf50-3fb14f65fce6

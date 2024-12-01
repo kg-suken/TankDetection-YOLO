@@ -2,7 +2,8 @@
 YOLOv8xを元に学習を行いました
 
 データセット:https://universe.roboflow.com/project-0woqr/tank-finder-xuueg  
-モデル:https://github.com/kg-suken/TankDetection-YOLO/blob/main/best.pt
+モデル:https://github.com/kg-suken/TankDetection-YOLO/blob/main/best.pt  
+モデルのダウンロードリンク:https://github.com/kg-suken/TankDetection-YOLO/raw/refs/heads/main/best.pt?download=
 
 ソース画像
 <br><img src="https://github.com/user-attachments/assets/3d638c17-84b9-4a62-8d0d-ec743846a31e" width="500"/>

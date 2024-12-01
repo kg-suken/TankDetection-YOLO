@@ -12,6 +12,25 @@ YOLOv8xを元に学習を行いました
 <br><img src="https://github.com/user-attachments/assets/3e647d8a-9abe-4313-b88e-00816be4c2de" width="500"/>
 
 ---
+## 使い方
+### インストール
+```
+pip install opencv-python opencv-python-headless
+```
+```
+pip install ultralytics
+```
+Pytorchは公式サイトからお使いのGPUにあったものをインストールしてください。  
+```
+pip install torch torchvision torchaudio
+```
+### 実行
+```
+python cam.py
+```
+カメラの選択肢が現れますので、数字を入力してエンターキーを押してください。
+
+---
 ## サンプル
 リアルタイムで動画から戦車を検出しています。  
 [ソース動画](https://www.youtube.com/watch?v=Kat897_pud4)

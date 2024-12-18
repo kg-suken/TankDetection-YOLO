@@ -5,6 +5,8 @@ YOLOv8xを元に学習を行いました
 モデル:https://github.com/kg-suken/TankDetection-YOLO/blob/main/best.pt  
 モデルのダウンロードリンク:https://github.com/kg-suken/TankDetection-YOLO/raw/refs/heads/main/best.pt?download=
 
+268 layers, 68,124,531 parameters, 0 gradients
+
 ソース画像
 <br><img src="https://github.com/user-attachments/assets/3d638c17-84b9-4a62-8d0d-ec743846a31e" width="500"/>
 
